@@ -2,7 +2,8 @@
 
 This repository contains my training practice codes for **C programming** and *Data Structures**.  
 Topics covered:  
-- Basics of C coding  
+- Basics of C coding
+- Union and Structure 
 - Recursion  
 - Bitwise operations  
 - File handling  
